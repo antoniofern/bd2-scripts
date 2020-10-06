@@ -1,3 +1,3 @@
-CREATE TABLE clientebola(
-codigo int default(nextval('bola'))
+CREATE TABLE cliente (
+  codigo int default(nextval('bola'))
 );
