@@ -1,0 +1,9 @@
+2. Explique as diferentes opções de codificação de caracteres e de collations.
+
+O charset define um conjunto de caracteres que
+irá ser utilizado para armazenar os dados em forma de texto.
+Atualmente o padrão é o utf-8 que possibilita até 1.114.112 caracteres
+o que permite exibir caracteres em qualquer idioma, inclusive Chinês e Japonês.
+
+Os collations vão ditar as regras de comparação dos caracteres, se irá
+ser considerado letras maiúsculas e minusculas, letras com acentuação e sem acentuação, etc. 
