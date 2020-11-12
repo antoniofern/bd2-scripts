@@ -1,0 +1,3 @@
+Um índice atribui uma chave a uma coluna ou mais colunas 
+e essas chaves são armazenadas em uma estrutura que permite localizar
+a linha ou as linhas associadas aos valores da chave de forma rápida e eficas.
